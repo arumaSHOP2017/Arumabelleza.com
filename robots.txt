@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arumashop2017.github.io/Arumabelleza.com/sitemap.xml
